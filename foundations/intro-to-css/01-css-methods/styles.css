@@ -1,1 +1,8 @@
 /* Styling for 01-css-methods */
+div {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background-color: red;
+}
