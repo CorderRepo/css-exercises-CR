@@ -1,0 +1,19 @@
+#First {
+color: blue;
+font-size: 36px;
+}
+
+#Second {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+
+.Regular {
+background-color: lightpink;
+font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.Regular.Cool {
+font-size: 24px;
+}
